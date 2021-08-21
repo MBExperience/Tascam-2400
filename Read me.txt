@@ -1,0 +1,5 @@
+Hey all,
+       Here are the scripts to making the Tascam 2400 work. I say work, it does allow all faders to now communicate with FL studio and all basic functions like the Transport etc.. But I wrote them for a fellow producer who wanted to get a start on controlling his Tascam 2400. I'm not sure if it covers all of the functions in the Tascam 2400 but he seemed happy with the scripts and their function. I do not have a Tascam 2400 myself so I can't advise on the completness of the scripts.Maybe you could give feedback on the FL studio Forum? I have a Mackie D8B myself and have included the D8B layout just to help you picture how the ports work. 
+                  Happy producing
+
+                                   MBE (AKA Synthmaster) 
